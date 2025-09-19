@@ -1,0 +1,26 @@
+{
+  "name": "240240600082",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "Logging_Middleware",
+    "backend",
+    "frontend"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markiv-proto/240240600082.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markiv-proto/240240600082/issues"
+  },
+  "homepage": "https://github.com/markiv-proto/240240600082#readme",
+  "description": ""
+}
